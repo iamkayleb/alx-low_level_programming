@@ -5,7 +5,7 @@
  *
  */
 
-void print_alphabet(void)
+void print_alphabet(void) /* Prints in lowercase followed by newline*/
 {
 	char small;
 
