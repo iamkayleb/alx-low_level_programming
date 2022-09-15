@@ -1,11 +1,11 @@
 #include "main.h"
 
 /*
- * print_alphabet(void)  - Print in lower case followed by \n.
+ * main - Prints alphbets in lowercase, followed by a new line
  *
  */
 
-void print_alphabet(void) /* Prints in lowercase followed by newline*/
+void print_alphabet(void)
 {
 	char small;
 

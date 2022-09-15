@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- ** main - checsk the cod
+ ** main - checsk the code
  * 
  *Return: Always 0.
  */
